@@ -1,6 +1,6 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there!  I'm Guyo ! </h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there!  I'm Guyo ! </h2> <h3> a software Developer </h3>
 
-### 😎 &nbsp;About Me
+
 
 🎓 &nbsp;I'm a Software Developer & 💡 like to explore new technologies and develop software solutions.
 <!--🎓 &nbsp;I'm currently studying: Information Technology (software engineer)  at Zetech University, Kenya .\-->
@@ -10,7 +10,7 @@
 
 <!--END_SECTION:waka-->
 
-### 💻 🛠 &nbsp;Tech Stack
+### 💻 🛠 &nbsp;My Skills:
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
