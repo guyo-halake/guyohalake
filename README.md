@@ -1,5 +1,5 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello Friend! <br>
-**I'm Guyo Halake**. A software developer with a Knack for Internet of Things (IoT)! </h2>
+   **I'm Guyo Halake**.! </h2>
 
 ### 😎 &nbsp;About Me
 
