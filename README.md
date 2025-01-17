@@ -1,10 +1,11 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello Friend! <br>
-   **I'm Guyo Halake**.! </h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello Friend!  **I'm Guyo Halake**. <br>
+  ! </h2>
+&nbsp;A Software Developer.
 
 ### 😎 &nbsp;About Me
 
-🎓 &nbsp;I am a **Fullstack Software Developer**.\
-<!--🎓 &nbsp;I'm currently studying: Applied Computer Technology (software engineering)  at the United States International University-Africa .\-->
+🎓 &nbsp;I Develop **Web Apps** and **Internet of Things *(IoT)* devices.** .\
+ &nbsp;I'm currently learning: Embedded Systems programming and CyberSecurity.
 ✍️ &nbsp;In my free time, I pursue **Robotics** and **Ethical Hacking** .\
 💬 &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/guyo-halake-65656523b/)
 <!-- 📄 &nbsp;Please have a look at my [Résumé](file:///Users/muna/Downloads/MunaSaidCVpdf.pdf) for more details about me.-->
