@@ -1,8 +1,9 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there!  I'm Guyo Halake. A software developer with a Knack for Internet of Things (IoT)! </h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello Friend! <br>
+**I'm Guyo Halake**. A software developer with a Knack for Internet of Things (IoT)! </h2>
 
 ### 😎 &nbsp;About Me
 
-🎓 &nbsp;I craft elegant **Web Apps**, **IoT Systems** and small**Robotics** projects.\
+🎓 &nbsp;I am a **Fullstack Software Developer**.\
 <!--🎓 &nbsp;I'm currently studying: Applied Computer Technology (software engineering)  at the United States International University-Africa .\-->
 ✍️ &nbsp;In my free time, I pursue **Robotics** and **Ethical Hacking** .\
 💬 &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/guyo-halake-65656523b/)
@@ -56,4 +57,4 @@
 <a href="https://guyohalake.github.io/GuyoHalake-Blog/"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 </p>
 
-Happy Coding 👨‍💻!
+**Happy Coding 👨‍💻!**
