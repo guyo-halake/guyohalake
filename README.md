@@ -1,7 +1,7 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello Friend!  **I'm Guyo Halake**. <br>
-<h5>&nbsp;A Software Developer.</h5>h5>
+<h5>&nbsp;A Software Developer.</h5> 
    </h2>
-&nbsp;A Software Developer.
+
 
 ### 😎 &nbsp;About Me
 
