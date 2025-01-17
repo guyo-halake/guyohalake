@@ -6,7 +6,7 @@
 ### 😎 &nbsp;About Me
 
 🎓 &nbsp;I Develop **Web Apps** and **Internet of Things *(IoT)* devices.** .\
- &nbsp;I'm currently learning: Embedded Systems programming and CyberSecurity.
+   &nbsp;I'm currently learning: Embedded Systems programming and CyberSecurity.
 ✍️ &nbsp;In my free time, I pursue **Robotics** and **Ethical Hacking** .\
 💬 &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/guyo-halake-65656523b/)
 <!-- 📄 &nbsp;Please have a look at my [Résumé](file:///Users/muna/Downloads/MunaSaidCVpdf.pdf) for more details about me.-->
