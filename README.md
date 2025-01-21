@@ -36,8 +36,8 @@
 
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Munanom&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=Munanom&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Munanom&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=guyohalake&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=guyohalake&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--
 ### ⚙️ &nbsp;GitHub Analytics
