@@ -1,36 +1,37 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello Friend!  **I'm Guyo Halake**. <br>
-<h5>&nbsp;A Software Developer.</h5> 
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello Friend!  **My name is Guyo**. <br>
+<h5>&nbsp;A Software Developer and Cybersecurity Enthusiast.</h5> 
    </h2>
 
 
-### 😎 &nbsp;About Me
+ 😎 &nbsp;About Me
 
-🎓 &nbsp;I Develop **Web Apps** and **Internet of Things *(IoT)* devices.** .\
+🎓 &nbsp;I specialize in developing **Systems and applications** and use my **Cybersecurity skills** to protect them from cyber threats.
 
-✍️&nbsp;I'm currently learning: Embedded Systems programming and CyberSecurity.
+✍️&nbsp; I'm currently learning: API development, Android Apps development and upskilling my skills in Cybersecurity.
    
 
 💬 &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/guyo-halake-65656523b/)
-<!-- 📄 &nbsp;Please have a look at my [Résumé](file:///Users/muna/Downloads/MunaSaidCVpdf.pdf) for more details about me.-->
-
+ 
 <!--END_SECTION:waka-->
 
 ### 💻 🛠 &nbsp;My Skills
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws&logoColor=FF9900)&nbsp;
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=kalilinux&logoColor=blue)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash&logoColor=white)&nbsp;
 ![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark&logoColor=blue)&nbsp;
 ![Nmap](https://img.shields.io/badge/-Nmap-05122A?style=flat&logo=nmap&logoColor=white)&nbsp;
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=kalilinux&logoColor=blue)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=E95420)&nbsp;
 ![Metasploit](https://img.shields.io/badge/-Metasploit-05122A?style=flat&logo=metasploit)&nbsp;
+![Security Onion](https://img.shields.io/badge/-Security%20Onion-05122A?style=flat&logo=security-onion&logoColor=white)&nbsp;
+![Social Engineering](https://img.shields.io/badge/-Social%20Engineering-05122A?style=flat&logoColor=white)&nbsp;
+![Vulnerability Testing](https://img.shields.io/badge/-Vulnerability%20Testing-05122A?style=flat&logoColor=white)&nbsp;
+![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-05122A?style=flat&logoColor=white)&nbsp;
+![Malware Analysis](https://img.shields.io/badge/-Malware%20Analysis-05122A?style=flat&logoColor=white)&nbsp;
+![Virus Development](https://img.shields.io/badge/-Virus%20Development-05122A?style=flat&logoColor=white)&nbsp;
 
 
 # 📊 GitHub Stats:
