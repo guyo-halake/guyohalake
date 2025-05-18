@@ -33,21 +33,18 @@
 ![Malware Analysis](https://img.shields.io/badge/-Malware%20Analysis-05122A?style=flat&logoColor=white)&nbsp;
 ![Virus Development](https://img.shields.io/badge/-Virus%20Development-05122A?style=flat&logoColor=white)&nbsp;
 
+## 📊 GitHub Stats
 
-# 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Munanom&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=guyohalake&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=guyohalake&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
 
-<!--
-### ⚙️ &nbsp;GitHub Analytics
+<!-- GitHub Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=guyohalake&theme=dark&hide_border=false" alt="GitHub Streak" /> <br>
 
-<p align="justify" display="inline">
-<a href="https://github.com/Munanom">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Samkiroko&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
--->
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guyohalake&theme=dark&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
+
+</div>
+
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Munanom&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
