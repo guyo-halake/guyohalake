@@ -1,37 +1,35 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello Friend!  **My name is Guyo**. <br>
-<h5>&nbsp;A Software Developer and Cybersecurity Enthusiast.</h5> 
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Guyo Halake -  <br>
+<h5>&nbsp;Developer.</h5> 
    </h2>
 
 
  😎 &nbsp;About Me
 
-🎓 &nbsp;I specialize in developing **Systems and applications** and use my **Cybersecurity skills** to protect them from cyber threats.
+🎓 &nbsp;I specialize in developing **Mobile Applications for both android and IoS** and use my **Cybersecurity skills (Android Mobile Security)** to protect them from cyber threats.
 
-✍️&nbsp; I'm currently learning: API development, Android Apps development and upskilling my skills in Cybersecurity.
+✍️&nbsp;
    
 
-💬 &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/guyo-halake-65656523b/)
+💬 &nbsp; [LinkedIn](https://www.linkedin.com/in/guyo-halake-65656523b/)
  
 <!--END_SECTION:waka-->
 
 ### 💻 🛠 &nbsp;My Skills
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash&logoColor=white)&nbsp;
+
 ![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark&logoColor=blue)&nbsp;
 ![Nmap](https://img.shields.io/badge/-Nmap-05122A?style=flat&logo=nmap&logoColor=white)&nbsp;
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=kalilinux&logoColor=blue)&nbsp;
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=E95420)&nbsp;
 ![Metasploit](https://img.shields.io/badge/-Metasploit-05122A?style=flat&logo=metasploit)&nbsp;
-![Security Onion](https://img.shields.io/badge/-Security%20Onion-05122A?style=flat&logo=security-onion&logoColor=white)&nbsp;
-![Social Engineering](https://img.shields.io/badge/-Social%20Engineering-05122A?style=flat&logoColor=white)&nbsp;
-![Vulnerability Testing](https://img.shields.io/badge/-Vulnerability%20Testing-05122A?style=flat&logoColor=white)&nbsp;
-![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-05122A?style=flat&logoColor=white)&nbsp;
-![Malware Analysis](https://img.shields.io/badge/-Malware%20Analysis-05122A?style=flat&logoColor=white)&nbsp;
-![Virus Development](https://img.shields.io/badge/-Virus%20Development-05122A?style=flat&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=7F52FF)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=white)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android&logoColor=3DDC84)&nbsp;
+![Gradle](https://img.shields.io/badge/-Gradle-05122A?style=flat&logo=gradle&logoColor=02303A)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
+![APKTool](https://img.shields.io/badge/-APKTool-05122A?style=flat&logo=android&logoColor=green)&nbsp;
+
+
 
 ## 📊 GitHub Stats
 
